@@ -12,14 +12,14 @@
 
   <!-- Tablet -->
   <div style="text-align:center;">
-    <img src="https://img.shields.io/badge/Tablet-555555?style=for-the-badge&logo=apple&logoColor=white" alt="Tablet">
+    <img src="https://img.shields.io/badge/Tablet-555555?style=for-the-badge" alt="Tablet">
     <img src="https://github.com/Alex-Dev5001/Projeto-CSS-b-sico-WE-CARE/blob/master/img/Imagens%20Prontas%20readme/Tablet.png" 
     alt="tablet" style="width:100%; max-width:270px;"><br><br><br>
   </div>
 
   <!-- Smartphone -->
   <div style="text-align:center;">
-    <img src="https://img.shields.io/badge/Smartphone-000000?style=for-the-badge&logo=android&logoColor=white" alt="Smartphone">
+    <img src="https://img.shields.io/badge/Smartphone-000000?style=for-the-badge" alt="Smartphone">
     <img src="https://github.com/Alex-Dev5001/Projeto-CSS-b-sico-WE-CARE/blob/master/img/Imagens%20Prontas%20readme/Smartphone.png" 
     alt="smartphone" style="width:100%; max-width:270px;"><br><br><br>
   </div>
